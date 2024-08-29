@@ -2,7 +2,7 @@
 //  WeatherModel.swift
 //  Weather
 //
-//  Created by naresh chouhan on 8/24/24.
+//  Created by naresh chouhan on 8/28/24.
 //
 
 import Foundation
